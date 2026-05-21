@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Authentic Stories — Creator Studio",
+  title: "Official Website of Abdul Malik Fareed | Vloger - Youtuber - Influencer",
   description:
     "Exploring food, travel, people, and cinematic experiences through authentic storytelling and modern content creation.",
 };

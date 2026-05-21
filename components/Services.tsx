@@ -29,42 +29,42 @@
     * ========================================================== */
 
     const CONTENT: ServicesContent = {
-    heading: "Crafting moments\nthat linger.",
+    heading: "Creating Stories That Connect.",
     paragraph:
-        "Selected engagements — built for brands and partners who value authenticity over algorithms, story over volume.",
+        "Meaningful collaborations built around culture, storytelling, business, and experiences that create lasting impact.",
     cards: [
         {
         eyebrow: "MENTORSHIP",
-        title: "1:1 Consultation",
+        title: "One-on-One Meeting",
         description:
-            "Private mentorship for creators building soulful, faith-rooted content. Strategy, storytelling, and audience growth.",
+            "Personal guidance on business opportunities, residency pathways, creator growth, and settling in Saudia confidently.",
         video: "/video1.mp4",
         href: "/services/consultation",
         overlayOpacity: 0.6,
         },
         {
         eyebrow: "PARTNERSHIP",
-        title: "Brand Collaboration",
+        title: "Brand Endorsement",
         description:
-            "Cinematic, value-aligned campaigns for brands looking to reach intentional, engaged audiences across platforms.",
+            "Collaborating with aligned brands through cinematic storytelling, cultural experiences, and audience-driven digital campaigns.",
         video: "/video2.mp4",
         href: "/services/collaboration",
         overlayOpacity: 0.6,
         },
         {
         eyebrow: "PRODUCTION",
-        title: "Story Direction",
+        title: "Keynote Speaker",
         description:
-            "End-to-end creative direction for short films, documentaries, and brand stories rooted in culture and craft.",
+            "Speaking on culture, storytelling, creator journeys, faith, and modern opportunities through engaging public sessions.",
         video: "/video5.mp4",
         href: "/services/production",
         overlayOpacity: 0.6,
         },
         {
         eyebrow: "SPEAKING",
-        title: "Talks & Workshops",
+        title: "Podcast Features",
         description:
-            "Keynotes and workshops on faith, storytelling, and building meaningful presence in the modern creator economy.",
+            "Meaningful conversations around culture, experiences, business, community, and stories that inspire global audiences.",
         video: "/video4.mp4",
         href: "/services/speaking",
         overlayOpacity: 0.6,

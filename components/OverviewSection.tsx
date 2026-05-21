@@ -72,7 +72,7 @@ const CARDS: OverviewCard[] = [
     followers: "3.12M",
     followersNumeric: 3.12,
     followersSuffix: "M",
-    heading: "Growing Every Sunrise Over The",
+    heading: "Stories Through Culture & Travel",
     username: "@AbdulMalikFareed",
     size: "wide",
     theme: "dark",
@@ -89,7 +89,7 @@ const CARDS: OverviewCard[] = [
     followers: "1.1M",
     followersNumeric: 1.1,
     followersSuffix: "M",
-    heading: "Growing Every Sunrise Over The",
+    heading: "Daily Moments & Experiences",
     username: "@abmalikfareed",
     size: "narrow",
     theme: "light",
@@ -106,7 +106,7 @@ const CARDS: OverviewCard[] = [
     followers: "423k",
     followersNumeric: 423,
     followersSuffix: "k",
-    heading: "Growing Every Sunrise Over The",
+    heading: "Short Stories That Connect",
     username: "@abmalikfareed",
     size: "narrow",
     theme: "light",
@@ -123,7 +123,7 @@ const CARDS: OverviewCard[] = [
     followers: "2.5k",
     followersNumeric: 2.5,
     followersSuffix: "k",
-    heading: "Growing Every Sunrise Over The",
+    heading: "Thoughts, Culture & Community",
     username: "@abmalikfareed",
     size: "narrow",
     theme: "light",
@@ -140,7 +140,7 @@ const CARDS: OverviewCard[] = [
     followers: "100k",
     followersNumeric: 100,
     followersSuffix: "k",
-    heading: "Growing Every Sunrise Over The",
+    heading: "Conversations Beyond Content",
     username: "@abmalikfareed",
     size: "narrow",
     theme: "light",
@@ -157,7 +157,7 @@ const CARDS: OverviewCard[] = [
     followers: "5.2M",
     followersNumeric: 5.2,
     followersSuffix: "M",
-    heading: "Growing Every Sunrise Over The",
+    heading: "A Growing Global Community",
     username: "@abmalikfareed",
     size: "wide",
     theme: "light",
@@ -426,12 +426,12 @@ export default function OverviewSection() {
             className="flex-1"
           >
             <h2
-              className="font-poppins font-bold leading-[1.05] tracking-[-1.5px] text-black"
+              className="font-poppins font-bold leading-[1.05] tracking-[-2px] text-black"
               style={{ fontSize: "clamp(2rem, 4vw, 3.75rem)" }}
             >
-              A Community Across
+              Stories Shared Across 
               <br />
-              Every Screen.
+              Screens.
             </h2>
           </motion.div>
 

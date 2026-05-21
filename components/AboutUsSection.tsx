@@ -37,34 +37,34 @@ const CONTENT: AboutUsContent = {
   image: "/images/about-us.jpg",
   imageAlt: "About us — what to know what's possible",
   imageOverlayHeading: "What to Know What's\nPossible",
-  ctaLabel: "Get In Touch",
+  ctaLabel: "Explore Journey",
   ctaHref: "#contact",
 
-  headingStart: "The Value Behind Our",
-  headingItalic: "Partnership",
+  headingStart: "The Story Behind",
+  headingItalic: "The Journey",
   paragraph:
-    "At Optimo, our partnership goes beyond delivering solutions — it's about building trust, aligning with your goals. We go beyond consulting to become your strategic partner — delivering tailored solutions, expert insight, and measurable results.",
+    "Through storytelling, travel, and cultural exploration, I aim to share experiences that bring people closer to faith, tradition, and community. Every journey is an opportunity to discover meaningful moments and connect with stories that inspire beyond the screen.",
 
   timeline: [
     {
-      title: "Research & Discovery",
+      title: "Cultural Exploration",
       description:
-        "Gain clarity through deep analysis understanding the problem, the people, and the purpose behind the solution.",
+        "Discovering traditions, communities, and experiences through immersive storytelling.",
     },
     {
-      title: "Design & Development",
+      title: "Meaningful Storytelling",
       description:
-        "Shape ideas into practical, intelligent solutions using structured thinking, creativity, and technological insight.",
+        "Capturing moments that reflect culture, connection, and human experiences.",
     },
     {
-      title: "Problem Solving & Refinement",
+      title: "Faith & Tradition",
       description:
-        "Identify challenges, improve systems, and apply data-driven strategies to create effective, scalable outcomes.",
+        "Exploring the spiritual beauty and traditions that shape communities worldwide.",
     },
     {
-      title: "Deployment & Real-World Impact",
+      title: "Community Connection",
       description:
-        "Bring the solution to life with stability, clarity, and long-term value ensuring it truly serves the people it was built for.",
+        "Building conversations and experiences that bring people together across cultures.",
     },
   ],
 };
