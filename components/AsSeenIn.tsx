@@ -19,20 +19,20 @@ type LogoItem = {
  * ========================================================== */
 
 const LOGOS: LogoItem[] = [
-  { name: "TEDx",       src: "/press/logo1.png" },
-  { name: "Forbes",     src: "/press/logo2.png" },
-  { name: "Vogue",      src: "/press/logo3.png" },
-  { name: "GQ",         src: "/press/logo4.png", padding: "clamp(1rem, 2vw, 7rem)" },
-  { name: "Wired",      src: "/press/logo5.png" },
-  { name: "Bloomberg",  src: "/press/logo6.png" },
-  { name: "Esquire",    src: "/press/logo7.png" },
-  { name: "Monocle",    src: "/press/logo8.png" },
+  { name: "TEDx",       src: "/press/logo1.webp" },
+  { name: "Forbes",     src: "/press/logo2.webp" },
+  { name: "Vogue",      src: "/press/logo3.webp" },
+  { name: "GQ",         src: "/press/logo4.webp", padding: "clamp(1rem, 2vw, 7rem)" },
+  { name: "Wired",      src: "/press/logo5.webp" },
+  { name: "Bloomberg",  src: "/press/logo6.webp" },
+  { name: "Esquire",    src: "/press/logo7.webp" },
+  { name: "Monocle",    src: "/press/logo8.webp" },
 ];
 
 /* Extra 2 logos for the centered 3rd row */
 const EXTRA_LOGOS: LogoItem[] = [
-  { name: "Logo 9",  src: "/press/logo9.png", padding: "clamp(1rem, 2vw, 7rem)" },
-  { name: "Logo 10", src: "/press/logo10.png" },
+  { name: "Logo 9",  src: "/press/logo9.webp", padding: "clamp(1rem, 2vw, 7rem)" },
+  { name: "Logo 10", src: "/press/logo10.webp" },
 ];
 
 /* ==========================================================

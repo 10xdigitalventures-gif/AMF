@@ -163,7 +163,7 @@ const CONTENT: FooterContent = {
     },
   ],
   card: {
-    avatar: "/logo.png",
+    avatar: "/logo.webp",
     name: "Abdul Malik Fareed",
     handle: "@usernamehere",
     message: "Open for select brand collaborations and creative partnerships through 2026.",
@@ -171,7 +171,7 @@ const CONTENT: FooterContent = {
     href: "https://instagram.com",
   },
   brandName: "Abdul Malik Fareed",
-  brandLogo: "/logo-mark.png", // small icon-only logo for bottom row
+  brandLogo: "/logo-mark.webp", // small icon-only logo for bottom row
   copyrightYear: 2026,
   socials: [
     { label: "Instagram", href: "https://instagram.com", icon: Instagram },

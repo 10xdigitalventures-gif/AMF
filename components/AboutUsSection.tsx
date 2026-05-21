@@ -34,7 +34,7 @@ type AboutUsContent = {
  * ========================================================== */
 
 const CONTENT: AboutUsContent = {
-  image: "/images/about-us.jpg",
+  image: "/images/about-us.webp",
   imageAlt: "About us — what to know what's possible",
   imageOverlayHeading: "What to Know What's\nPossible",
   ctaLabel: "Explore Journey",

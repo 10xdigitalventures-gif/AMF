@@ -57,7 +57,7 @@ export default function Navbar() {
             >
               <div className="relative h-10 w-[160px] sm:h-12 sm:w-[220px]">
                 <Image
-                  src="/logo.png"
+                  src="/logo.webp"
                   alt="Logo"
                   fill
                   sizes="(max-width: 640px) 160px, 220px"

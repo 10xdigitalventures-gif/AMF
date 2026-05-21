@@ -11,7 +11,7 @@ import { ArrowUpRight } from "lucide-react";
  * ========================================================== */
 
 const CONTENT = {
-  image: "/images/community.jpg",
+  image: "/images/community.webp",
   imageAlt: "Travel community",
   heading: "Be part of our Travel Community",
   paragraph:
