@@ -13,22 +13,22 @@ type Logo = {
 };
 
 const LOGOS: Logo[] = [
-  { name: "Brand 1",   src: "/logos/logo-1.png" },
-  { name: "Brand 2",   src: "/logos/logo-2.png" },
-  { name: "Brand 3", src: "/logos/logo-3.png" },
-  { name: "Brand 4",  src: "/logos/logo-4.png" },
-  { name: "Brand 5",  src: "/logos/logo-5.png" },
-  { name: "Brand 6",   src: "/logos/logo-6.png" },
-  { name: "Brand 7", src: "/logos/logo-7.png" },
-  { name: "Brand 8", src: "/logos/logo-8.png" },
-  { name: "Brand 9",  src: "/logos/logo-9.png" },
-  { name: "Brand 10",   src: "/logos/logo-10.png" },
-  { name: "Brand 11",   src: "/logos/logo-11.png" },
-  { name: "Brand 12",   src: "/logos/logo-12.png" },
-  { name: "Brand 13",   src: "/logos/logo-13.png" },
-  { name: "Brand 14",   src: "/logos/logo-14.png" },
-  { name: "Brand 15",   src: "/logos/logo-15.png" },
-  { name: "Brand 16",   src: "/logos/logo-16.png" },
+  { name: "Brand 1",   src: "/logos/logo-1.webp" },
+  { name: "Brand 2",   src: "/logos/logo-2.webp" },
+  { name: "Brand 3", src: "/logos/logo-3.webp" },
+  { name: "Brand 4",  src: "/logos/logo-4.webp" },
+  { name: "Brand 5",  src: "/logos/logo-5.webp" },
+  { name: "Brand 6",   src: "/logos/logo-6.webp" },
+  { name: "Brand 7", src: "/logos/logo-7.webp" },
+  { name: "Brand 8", src: "/logos/logo-8.webp" },
+  { name: "Brand 9",  src: "/logos/logo-9.webp" },
+  { name: "Brand 10",   src: "/logos/logo-10.webp" },
+  { name: "Brand 11",   src: "/logos/logo-11.webp" },
+  { name: "Brand 12",   src: "/logos/logo-12.webp" },
+  { name: "Brand 13",   src: "/logos/logo-13.webp" },
+  { name: "Brand 14",   src: "/logos/logo-14.webp" },
+  { name: "Brand 15",   src: "/logos/logo-15.webp" },
+  { name: "Brand 16",   src: "/logos/logo-16.webp" },
 ];
 
 export default function LogoCarousel() {
