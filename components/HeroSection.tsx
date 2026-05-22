@@ -16,7 +16,7 @@ type VideoCard = {
 
 const LEFT_VIDEOS: VideoCard[] = [
   {
-    src: "video1.mp4",
+    src: "/compressed/video1.webm",
     width:  "clamp(140px, 11.5vw, 220px)",
     height: "clamp(95px, 7.3vw, 140px)",
     rotate: 0,
@@ -24,7 +24,7 @@ const LEFT_VIDEOS: VideoCard[] = [
     offsetY: "translate-y-0",
   },
   {
-    src: "video2.mp4",
+    src: "/compressed/video2.webm",
     width:  "clamp(220px, 17.7vw, 340px)",
     height: "clamp(155px, 12vw, 230px)",
     rotate: 0,
@@ -32,7 +32,7 @@ const LEFT_VIDEOS: VideoCard[] = [
     offsetY: "translate-y-[clamp(1rem,1.5vw,2.5rem)]",
   },
   {
-    src: "video3.mp4",
+    src: "/compressed/video3.webm",
     width:  "clamp(150px, 11.5vw, 220px)",
     height: "clamp(180px, 13.5vw, 260px)",
     rotate: 0,
@@ -43,7 +43,7 @@ const LEFT_VIDEOS: VideoCard[] = [
 
 const RIGHT_VIDEOS: VideoCard[] = [
   {
-    src: "video4.mp4",
+    src: "/compressed/video4.webm",
     width:  "clamp(140px, 11.5vw, 220px)",
     height: "clamp(95px, 7.3vw, 140px)",
     rotate: 0,
@@ -51,7 +51,7 @@ const RIGHT_VIDEOS: VideoCard[] = [
     offsetY: "translate-y-0",
   },
   {
-    src: "video5.mp4",
+    src: "/compressed/video5.webm",
     width:  "clamp(220px, 17.7vw, 340px)",
     height: "clamp(155px, 12vw, 230px)",
     rotate: 0,
@@ -59,7 +59,7 @@ const RIGHT_VIDEOS: VideoCard[] = [
     offsetY: "translate-y-[clamp(1rem,1.5vw,2.5rem)]",
   },
   {
-    src: "video6.mp4",
+    src: "/compressed/video6.webm",
     width:  "clamp(150px, 11.5vw, 220px)",
     height: "clamp(180px, 13.5vw, 260px)",
     rotate: 0,
@@ -125,7 +125,7 @@ function FloatingVideo({
           muted
           loop
           playsInline
-          preload="metadata"
+          preload="none"
           className="h-full w-full object-cover"
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-black/25" />
@@ -312,7 +312,7 @@ function MobileVideoSlider() {
               muted
               loop
               playsInline
-              preload="metadata"
+              preload="none"
               className="h-full w-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20" />
@@ -348,12 +348,12 @@ export default function HeroSection() {
       {/* ============ BACKGROUND VIDEO ============ */}
       <div className="pointer-events-none absolute inset-0 z-0">
         <video
-          src="hero.mp4"
+          src="/compressed/hero.webm"
           autoPlay
           muted
           loop
           playsInline
-          preload="metadata"
+          preload="none"
           className="h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-black/75" />

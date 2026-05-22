@@ -38,7 +38,7 @@
         title: "One-on-One Meeting",
         description:
             "Personal guidance on business opportunities, residency pathways, creator growth, and settling in Saudia confidently.",
-        video: "/video1.mp4",
+        video: "/compressed/video1.webm",
         href: "/services/consultation",
         overlayOpacity: 0.6,
         },
@@ -47,7 +47,7 @@
         title: "Brand Endorsement",
         description:
             "Collaborating with aligned brands through cinematic storytelling, cultural experiences, and audience-driven digital campaigns.",
-        video: "/video2.mp4",
+        video: "/compressed/video2.webm",
         href: "/services/collaboration",
         overlayOpacity: 0.6,
         },
@@ -56,7 +56,7 @@
         title: "Keynote Speaker",
         description:
             "Speaking on culture, storytelling, creator journeys, faith, and modern opportunities through engaging public sessions.",
-        video: "/video5.mp4",
+        video: "/compressed/video5.webm",
         href: "/services/production",
         overlayOpacity: 0.6,
         },
@@ -65,7 +65,7 @@
         title: "Podcast Features",
         description:
             "Meaningful conversations around culture, experiences, business, community, and stories that inspire global audiences.",
-        video: "/video4.mp4",
+        video: "/compressed/video4.webm",
         href: "/services/speaking",
         overlayOpacity: 0.6,
         },
