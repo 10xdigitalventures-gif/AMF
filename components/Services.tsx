@@ -47,7 +47,7 @@
         title: "Brand Endorsement",
         description:
             "Collaborating with aligned brands through cinematic storytelling, cultural experiences, and audience-driven digital campaigns.",
-        video: "/compressed/video2.webm",
+        video: "/compressed/video6.webm",
         href: "/services/collaboration",
         overlayOpacity: 0.6,
         },
@@ -56,7 +56,7 @@
         title: "Keynote Speaker",
         description:
             "Speaking on culture, storytelling, creator journeys, faith, and modern opportunities through engaging public sessions.",
-        video: "/compressed/video5.webm",
+        video: "/compressed/video4.webm",
         href: "/services/production",
         overlayOpacity: 0.6,
         },
@@ -65,7 +65,7 @@
         title: "Podcast Features",
         description:
             "Meaningful conversations around culture, experiences, business, community, and stories that inspire global audiences.",
-        video: "/compressed/video4.webm",
+        video: "/compressed/video2.webm",
         href: "/services/speaking",
         overlayOpacity: 0.6,
         },

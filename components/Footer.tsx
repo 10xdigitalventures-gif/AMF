@@ -163,10 +163,10 @@ const CONTENT: FooterContent = {
     },
   ],
   card: {
-    avatar: "/logo.webp",
+    avatar: "/favicon.ico",
     name: "Abdul Malik Fareed",
-    handle: "@usernamehere",
-    message: "Open for select brand collaborations and creative partnerships through 2026.",
+    handle: "@abdulmalikfareed",
+    message: "Open for meaningful collaborations, cultural partnerships, and storytelling experiences worldwide.",
     icon: Instagram,
     href: "https://instagram.com",
   },
